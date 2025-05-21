@@ -1,0 +1,11 @@
+{
+    "Apple": {"calories": 52, "protein": 0.3, "carbs": 13.8, "fiber": 2.4},
+    "Banana": {"calories": 89, "protein": 1.1, "carbs": 22.8, "fiber": 2.6},
+    "Orange": {"calories": 47, "protein": 0.9, "carbs": 11.8, "fiber": 2.4},
+    "Mango": {"calories": 60, "protein": 0.8, "carbs": 14.9, "fiber": 1.6},
+    "Watermelon": {"calories": 30, "protein": 0.6, "carbs": 7.6, "fiber": 0.4},
+    "Pineapple": {"calories": 50, "protein": 0.5, "carbs": 13.1, "fiber": 1.4},
+    "Snack": {"calories": 160, "protein": 2.5, "carbs": 21, "fiber": 1.0},
+    "MiniBiscuits": {"calories": 120, "protein": 1.5, "carbs": 19, "fiber": 0.5},
+    "noodles": {"calories": 138, "protein": 4.5, "carbs": 25, "fiber": 1.2}
+}
